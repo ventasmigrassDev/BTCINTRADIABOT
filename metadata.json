@@ -1,0 +1,6 @@
+{
+  "name": "Bot Intradia BTC Eventura",
+  "description": "Panel y bot de trading intradía para Bitcoin con análisis técnico, señales y gestión de riesgo",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
